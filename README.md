@@ -20,7 +20,7 @@ kps = kilometer per seconds
 
 YEAR SEC  CALCULATION:
 year_sec is defined as the number of seconds in a year
-To get the year_sec in a year, we have:
+get the year_sec in a year, we have:
 365 days in a year
 24 hours in a day 
 60 minutes per hour
@@ -43,6 +43,10 @@ e = means the power of 10
 12 = means the number of times the e(10) will raised to
 In normal terms, the answer will be :
 9.4608*10^12 = 9.4608*1000000000000
+
+
+So, that's we got our answer for lightyear_km = 9.4608e+12
+
 
 
 
